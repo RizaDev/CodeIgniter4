@@ -1,0 +1,38 @@
+#tk {
+  margin-left: 47%;
+}
+h1 {
+  margin-left: 42%;
+}
+th:nth-child(1) {
+  width: 5%;
+  border: 2px solid;
+  text-align: center;
+}
+th:nth-child(2) {
+  width: 10%;
+  border: 2px solid;
+}
+th:nth-child(3) {
+  width: 50%;
+  border: 2px solid;
+}
+th:nth-child(4) {
+  width: 45%;
+  text-align: center;
+  border: 2px solid;
+}
+
+td:nth-child(2) {
+  width: 20%;
+  border: 2px solid;
+}
+td:nth-child(3) {
+  width: 60%;
+  border: 2px solid;
+}
+td:nth-child(4) {
+  width: 15%;
+  border: 2px solid;
+  text-align: center;
+}
